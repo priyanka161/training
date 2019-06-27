@@ -1,0 +1,13 @@
+.container{
+    background-color: black;
+    height: 11em;
+    width: 29em;
+    margin-left: 24em;
+    margin-top: 9em;
+}
+p{
+  color:white;
+    margin-left: 8em;
+    margin-top: 2em;
+    margin-bottom: 7em;
+}
